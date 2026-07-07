@@ -1,5 +1,3 @@
-# DSA-in-java
-
 <div align="center">
 
 # 🚀 Java DSA Learning Journey
