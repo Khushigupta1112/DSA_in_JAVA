@@ -20,11 +20,11 @@ This repository contains my daily Java practice as I prepare for coding intervie
 
 ### 🔥 Currently Working On
 
-- ✅ Java Basics
-- ✅ Pattern Printing
-- ✅ Arrays
-- ✅ Basic Programming Questions
-- 🔄 LeetCode Problems (In Progress)
+-  Java Basics
+-  Pattern Printing
+-  Arrays
+-  Basic Programming Questions
+-  LeetCode Problems 
 
 ### 📅 Upcoming Topics
 
@@ -56,63 +56,5 @@ This repository contains my daily Java practice as I prepare for coding intervie
 
 ---
 
-# 📂 Repository Structure
-
-```
-JavaCodes/
-│
-├── Java Basics/
-├── Pattern Printing/
-├── Arrays/
-├── Basic Questions/
-├── LeetCode/
-└── README.md
-```
-
----
-
-# 📈 Current Progress
-
-| Topic | Status |
-|-------|--------|
-| Java Basics | ✅ Completed |
-| Pattern Printing | 🔄 In Progress |
-| Arrays | 🔄 In Progress |
-| Basic Questions | 🔄 In Progress |
-| LeetCode | 🔄 Started |
-| Strings | ⏳ Coming Soon |
-| Linked List | ⏳ Coming Soon |
-| Trees | ⏳ Coming Soon |
-| Graphs | ⏳ Coming Soon |
-| Dynamic Programming | ⏳ Coming Soon |
-
----
-
-# 💻 Tech Stack
-
-- Java
-- VS Code
-- Git
-- GitHub
-
----
-
-# 🌟 Repository Highlights
-
-- Beginner-friendly Java code
-- Clean and readable solutions
-- Regular updates
-- Interview-focused practice
-- Step-by-step learning journey
-
----
-
-# 👩‍💻 Author
-
-**Khushi Gupta**
-
-B.Tech (Cloud Computing) Student | Java & DSA Learner | Aspiring Software Engineer
-
----
 
 ⭐ **This repository is continuously updated as I learn and solve more Java and DSA problems.**
