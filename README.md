@@ -58,3 +58,15 @@ This repository contains my daily Java practice as I prepare for coding intervie
 
 
 ⭐ **This repository is continuously updated as I learn and solve more Java and DSA problems.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
