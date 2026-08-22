@@ -69,4 +69,24 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
