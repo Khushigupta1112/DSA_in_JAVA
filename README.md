@@ -64,6 +64,7 @@ This repository contains my daily Java practice as I prepare for coding intervie
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -89,4 +90,8 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
