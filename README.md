@@ -103,4 +103,8 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
