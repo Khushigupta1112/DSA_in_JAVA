@@ -74,11 +74,13 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -112,4 +115,16 @@ This repository contains my daily Java practice as I prepare for coding intervie
 | [0176-second-highest-salary](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0182-duplicate-emails) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
