@@ -74,6 +74,7 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0322-coin-change) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository contains my daily Java practice as I prepare for coding intervie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/0002-add-two-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Khushigupta1112/DSA_in_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
